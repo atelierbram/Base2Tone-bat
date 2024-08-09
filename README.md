@@ -1,5 +1,5 @@
 # Base2Tone bat
-Duotone colorschemes for [bat](https://github.com/sharkdp/bat); a cat(1) clone with wings. These colorschemes are based on [DuoTone themes](https://simurai.com/projects/2016/01/01/duotone-themes) by [Simurai](https://simurai.com/)
+Dark duotone colorschemes for [bat](https://github.com/sharkdp/bat); a cat(1) clone with wings. These colorschemes are based on [DuoTone themes](https://simurai.com/projects/2016/01/01/duotone-themes) by [Simurai](https://simurai.com/). For light variations take the ones on [github.com/atelierbram/Base2Tone-Sublime-Text](https://github.com/atelierbram/Base2Tone-Sublime-Text).
 
 ## Adding themes
 Create a folder for the new syntax highlighting themes, clone this repo over there:
